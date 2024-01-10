@@ -1,0 +1,23 @@
+[
+  {
+    "id_camper": 1,
+    "nombre": "ju",
+    "apellidos": "na",
+    "ruta_entrenamiento": "java",
+    "estado": "inscrito"
+  },
+  {
+    "id_camper": 2,
+    "nombre": "ju",
+    "apellidos": "na",
+    "ruta_entrenamiento": "java",
+    "estado": "inscrito"
+  },
+  {
+    "id_camper": 3,
+    "nombre": "ju",
+    "apellidos": "na",
+    "ruta_entrenamiento": "java",
+    "estado": "inscrito"
+  }
+]
